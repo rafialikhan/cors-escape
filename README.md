@@ -12,6 +12,9 @@ cookies. Requesting [user credentials](http://www.w3.org/TR/cors/#user-credentia
 The app can be configured to require a header for proxying a request, for example to avoid
 a direct visit from the browser.
 
+**Forked and hosted at 
+https://cors-escape.herokuapp.com/ So if you want to use this, use this url instead of cors-anywhere mentioned in the docs below.
+
 ## Example
 
 ```javascript
